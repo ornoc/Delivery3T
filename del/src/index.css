@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img {
+  max-width: 100px;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 0;
+}
+
+/* Estilização para a página de usuários */
+.users-page {
+  background-color: #f0f8ff;
+  padding: 20px;
+}
+
+.users-page h1 {
+  color: #333;
+}
+
+.users-page p {
+  color: #666;
+}
+
+/* Estilização para a página de um usuário específico */
+.user-page {
+  background-color: #e6e6fa;
+  padding: 20px;
+}
+
+.user-page h1 {
+  color: #333;
+}
+
+.user-page p {
+  color: #666;
+}
+
+/* Estilização para a página de restaurantes */
+.restaurants-page {
+  background-color: #fff0f5;
+  padding: 20px;
+}
+
+.restaurants-page h1 {
+  color: #333;
+}
+
+.restaurants-page p {
+  color: #666;
+}
+
+/* Estilização para a página de um restaurante específico */
+.restaurant-page {
+  background-color: #f5f5dc;
+  padding: 20px;
+}
+
+.restaurant-page h1 {
+  color: #333;
+}
+
+.restaurant-page p {
+  color: #666;
+}
+
+/* Estilização para a página de produtos */
+.products-page {
+  background-color: #f0fff0;
+  padding: 20px;
+}
+
+.products-page h1 {
+  color: #333;
+}
+
+.products-page p {
+  color: #666;
+}
+
+/* Estilização para a página de um produto específico */
+.product-page {
+  background-color: #f5fffa;
+  padding: 20px;
+}
+
+.product-page h1 {
+  color: #333;
+}
+
+.product-page p {
+  color: #666;
+}
