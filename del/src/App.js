@@ -7,6 +7,7 @@ import Products from './Products';
 import Login from './Login';
 import Signup from './Signup';
 import logo from './images/logo.png'; // Certifique-se de que a imagem está na pasta 'images'
+import './styles.css'; // Certifique-se de que o arquivo styles.css está no caminho correto
 
 export const UserContext = createContext();
 
